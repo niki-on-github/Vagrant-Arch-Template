@@ -1,0 +1,13 @@
+---
+configs:
+  use: 'example1'
+  example1:
+    name: 'arch-gui'
+    cpus: 4
+    memory: 4096
+    disksize: '50GB'
+  example2:
+    name: 'arch-gui'
+    cpus: 2
+    memory: 4096
+    disksize: '30GB'
